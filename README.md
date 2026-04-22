@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/voting-ranked_choice-06b6d4" alt="Ranked Choice">
   <img src="https://img.shields.io/badge/purpose-humanitarian-10b981" alt="Humanitarian">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
-  <a href="https://oliwoodsfoundation.org"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="Foundation"></a>
+  <a href="https://mama.oliwoods.ai/foundation"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="Foundation"></a>
 </p>
 
 ---
@@ -230,7 +230,7 @@ We especially need:
 ---
 
 <p align="center">
-  <strong>An <a href="https://oliwoodsfoundation.org">OliWoods Foundation</a> Project</strong>
+  <strong>An <a href="https://mama.oliwoods.ai/foundation">OliWoods Foundation</a> Project</strong>
   <br><em>Multiple perspectives. Honest disagreement. Better decisions.</em>
   <br><br>
   <sub>

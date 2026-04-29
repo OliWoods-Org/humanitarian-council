@@ -1,0 +1,27 @@
+{
+  "name": "humanitarian-council",
+  "version": "0.1.0",
+  "description": "AI deliberation with opposing worldviews — 7 voices, ranked-choice voting, preserved dissent",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "mama",
+    "humanitarian",
+    "council",
+    "deliberation",
+    "ai",
+    "ethics"
+  ],
+  "license": "GPL-3.0",
+  "dependencies": {
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
